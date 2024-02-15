@@ -1,0 +1,46 @@
+{
+   "lentil": [
+  {
+    "id": 1,
+    "age": "4 Months",
+    "image": "assets/lentil1.jpg",
+    "quote": "I was 4 months old here!"
+  },
+  {
+    "id": 2,
+    "age": "1 year",
+    "image": "assets/lentil2.jpg",
+    "quote": "Me at a whopping one whole year old!"
+  },
+  {
+    "id": 3,
+    "age": "2 years",
+    "image": "assets/lentil3.jpg",
+    "quote": "I was 2 here. I think you can tell from the pic I'm not obsessed with bathtime."
+  },
+  {
+    "id": 4,
+    "age": "8 Months",
+    "image": "assets/lentil4.jpg",
+    "quote": "I was 8 moths here. Laying in the sun after a nice walk is one of my favorite things to do!"
+  },
+  {
+    "id": 5,
+    "age": "3 Months",
+    "image": "assets/lentil5.jpg",
+    "quote": "Little baby me was simply only 3 months old here. I IMMEDIATELY started chewing my mom's pillows."
+  },
+  {
+    "id": 6,
+    "age": "5 months",
+    "image": "assets/lentil6.jpg",
+    "quote": "I was 5 months old here! I loved taking walks around the city as a little pup."
+  },
+  {
+    "id": 7,
+    "age": "3 years",
+    "image": "assets/lentil7.jpg",
+    "quote": "This is my current age! I love being 3!"
+  }
+],
+};

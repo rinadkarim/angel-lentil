@@ -1,0 +1,135 @@
+#image-container {
+    background-color: white;
+    float:left;
+    width: 500px;
+}
+
+ol{
+    list-style:none;
+}
+
+button {
+    background-color: white;
+    margin-bottom: 1rem;
+    color:hotpink;
+    font:small;
+    border-color:rgb(242, 242, 111);
+    
+    #quote {
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+        color: #333;
+        background-color: #f0f0f0;
+        padding: 10px;
+        border-radius: 5px;
+        margin-top: 20px;
+        width: 500px;
+        float: left;
+        background-color: white;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 20px;
+        border: 1px solid #ccc;
+      }
+
+    
+}
+
+h1 {
+    text-align: center;
+    color:deeppink;
+    font-size:xx-large;
+    font-style: bold;
+    font-family:verdana;
+}
+h2 {
+    text-align: center;
+    color:deeppink;
+    font-size:xx-large;
+    font-style: bold;
+    font-family:verdana;
+}
+
+#angel-intro {
+    text-align: center;
+    font-family: georgia;
+    color:deeppink;
+    font-size:medium;
+}
+
+p {
+    text-align: center;
+    font-family: courier;
+    color:rgb(255, 255, 129);
+    background-color: deeppink; 
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+
+
+#angel-4months {
+    width: 180 px;
+    height: 180px;
+    border: 3px solid rgb(249, 75, 168);
+    margin-bottom: 1rem;
+}
+#angel-8months {
+    width: 180 px;
+    height: 180px;
+    border: 3px solid rgb(249, 75, 168);
+    margin-bottom: 1rem;
+}
+
+#angel-3years {
+    width: 180 px;
+    height: 180px;
+    border: 3px solid rgb(249, 75, 168);
+    margin-bottom: 1rem;
+}
+
+#angel-3months {
+    width: 180 px;
+    height: 180px;
+    border: 3px solid rgb(249, 75, 168);
+    margin-bottom: 1rem;
+}
+
+#angel-2years {
+    width: 180 px;
+    height: 180px;
+    border: 3px solid rgb(249, 75, 168);
+    margin-bottom: 1rem;
+}
+
+#angel-1year {
+    width: 180 px;
+    height: 180px;
+    border: 3px solid rgb(249, 75, 168);
+    margin-bottom: 1rem;
+}
+
+#angel-5month {
+    width: 180 px;
+    height: 180px;
+    border: 3px solid rgb(249, 75, 168);
+    margin-bottom: 1rem;
+}
+
+#comment-section {
+    margin-top: 20px;
+  }
+  
+  #comment-form {
+    margin-bottom: 20px;
+  }
+  
+  #comments {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #comments li {
+    margin-bottom: 10px;
+  }
