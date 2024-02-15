@@ -50,6 +50,13 @@ h2 {
     font-family:verdana;
 }
 
+h3 {
+    text-align: center;
+    color:deeppink;
+    font-size:medium;
+    font-style: bold;
+    font-family:verdana;
+}
 #angel-intro {
     text-align: center;
     font-family: georgia;
@@ -82,7 +89,7 @@ p {
     margin-bottom: 1rem;
 }
 
-#angel-3years {
+#angel-3year {
     width: 180 px;
     height: 180px;
     border: 3px solid rgb(249, 75, 168);
